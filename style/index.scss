@@ -8,7 +8,7 @@ $uiWidth: 750px;
 .item1{
   width: (75px/$base) * 10rem;
   height: (85px/$base) * 10rem;
-  background: url("./images/itemBg.png") no-repeat;
+  background: url("../images/itemBg.png") no-repeat;
   background-size: (200px/$base)*10rem auto;
   background-position: (-123px/$base)*10rem -7px/$base*10rem;
   margin-left: (20px/$uiWidth)*10rem;
