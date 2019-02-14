@@ -4,5 +4,5 @@
 <script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script>;
 我使用了scss来编写样式，在webstorm中，有自动翻译工具 
 文件-> 设置 -> File Watchers -> 点击右上角 "+" 选scss
-![Image](https://raw.githubusercontent.com/siyecao/image-folder/master/images/file watchers.png)
+![Image](https://raw.githubusercontent.com/siyecao/image-folder/master/images/file_watchers.png)
 
